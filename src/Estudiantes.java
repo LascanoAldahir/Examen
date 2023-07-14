@@ -7,7 +7,7 @@ public class Estudiantes {
     JPanel rootPanel;
     private JLabel Estudiantes;
     private JLabel Codigo;
-    private JTextField CodigoR;
+    private JTextField CodigoR;//hola
     private JLabel FechaDeNacimiento;
     private JComboBox Anio;
     private JComboBox Mes;
